@@ -1,4 +1,4 @@
-# Money Formatin Plus
+# Money Formatting Plus
 
 Formats Number with the SI Prefix
 
