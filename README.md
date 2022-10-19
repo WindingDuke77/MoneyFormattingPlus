@@ -8,3 +8,4 @@ If you want to use this in your code you can use; <br />
 
 
 ## [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2874776982)
+## [Discord](https://discord.gg/MABm3uVxeZ)
