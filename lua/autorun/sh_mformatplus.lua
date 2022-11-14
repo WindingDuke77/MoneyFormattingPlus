@@ -35,7 +35,7 @@ function Formatter.UnFormat(Prenumber)
 
     number = number * (math.pow(1000, index))
 
-    return nil 
+    return number 
 end
 
 hook.Add("DarkRPFinishedLoading", "moneyformat+_init", function (arguments)
