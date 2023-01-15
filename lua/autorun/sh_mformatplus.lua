@@ -55,7 +55,7 @@ end
 local function isInf(arg)
    return arg == -math.huge or arg == math.huge
 end
-function indexOf(array, value)
+local function indexOf(array, value)
     for i, v in ipairs(array) do
         if v == value then
             return i
